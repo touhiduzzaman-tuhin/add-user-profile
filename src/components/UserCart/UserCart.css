@@ -1,0 +1,22 @@
+.user-cart-style{
+    text-align: center;
+}
+.cart-image{
+    display: flex;
+    border: 1px solid lightgray;
+    box-shadow: 5px 5px 10px gray;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: steelblue;
+    font-size:  20px;
+}
+.cart-image p{
+    padding-left: 10px;
+}
+.cart-image img{
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
